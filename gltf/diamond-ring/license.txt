@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black Diamond Ring
+* source:	https://sketchfab.com/3d-models/black-diamond-ring-5aa8c861617a431395e44a182d6cfa6b
+* author:	Busanello (https://sketchfab.com/busanello)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black Diamond Ring" (https://sketchfab.com/3d-models/black-diamond-ring-5aa8c861617a431395e44a182d6cfa6b) by Busanello (https://sketchfab.com/busanello) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

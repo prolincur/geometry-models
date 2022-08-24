@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hammock Chair
+* source:	https://sketchfab.com/3d-models/hammock-chair-aa093f14b9d84cadac4a6bdeac4a951a
+* author:	T.art (https://sketchfab.com/dhat38461)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hammock Chair" (https://sketchfab.com/3d-models/hammock-chair-aa093f14b9d84cadac4a6bdeac4a951a) by T.art (https://sketchfab.com/dhat38461) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

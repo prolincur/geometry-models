@@ -1,0 +1,11 @@
+Model Information:
+* title:	White spiral staircase
+* source:	https://sketchfab.com/3d-models/white-spiral-staircase-6485a0efb1274bfa84c9dbd448072094
+* author:	Denkon (https://sketchfab.com/nykondenys)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "White spiral staircase" (https://sketchfab.com/3d-models/white-spiral-staircase-6485a0efb1274bfa84c9dbd448072094) by Denkon (https://sketchfab.com/nykondenys) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
