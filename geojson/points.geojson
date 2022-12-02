@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "name": "points",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.897582,
+                    18.57508199999999
+                ]
+            },
+            "properties": {
+                "name": "Ward 1",
+                "wardnum": 1,
+                "marker-symbol": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.931012,
+                    18.562258
+                ]
+            },
+            "properties": {
+                "name": "Ward 2",
+                "wardnum": 2,
+                "marker-symbol": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.90017,
+                    18.57577
+                ]
+            },
+            "properties": {
+                "name": "Ward 3",
+                "wardnum": 3,
+                "marker-symbol": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.898061,
+                    18.575194
+                ]
+            },
+            "properties": {
+                "name": "Ward 4",
+                "wardnum": 4,
+                "marker-symbol": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.862607,
+                    18.587684
+                ]
+            },
+            "properties": {
+                "name": "Ward 5",
+                "wardnum": 5,
+                "marker-symbol": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.833316,
+                    18.573978
+                ]
+            },
+            "properties": {
+                "name": "Ward 6",
+                "wardnum": 6,
+                "marker-symbol": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.816051,
+                    18.56869
+                ]
+            },
+            "properties": {
+                "name": "Ward 7",
+                "wardnum": 7,
+                "marker-symbol": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.802686,
+                    18.5626
+                ]
+            },
+            "properties": {
+                "name": "Ward 8",
+                "wardnum": 8,
+                "marker-symbol": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.802274,
+                    18.551732
+                ]
+            },
+            "properties": {
+                "name": "Ward 9",
+                "wardnum": 9,
+                "marker-symbol": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.776114,
+                    18.547976
+                ]
+            },
+            "properties": {
+                "name": "Ward 10",
+                "wardnum": 10,
+                "marker-symbol": "X"
+            }
+        }
+    ]
+}
