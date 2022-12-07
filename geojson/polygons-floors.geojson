@@ -1,34 +1,34 @@
 {
-    "type": "FeatureCollection",   
+    "type": "FeatureCollection",
     "features": [
         {
-            "type": "Feature",             
-            "properties": {             
-                "name": "Building - 1"               
+            "type": "Feature",
+            "properties": {
+                "name": "Building - 1"
             },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
                     [
                         [
-                            106.8267291,
-                            -6.2071367
+                            -122.35071,
+                            47.61388
                         ],
                         [
-                            106.8270502,
-                            -6.2071764
+                            -122.35082,
+                            47.6138
                         ],
                         [
-                            106.8270033,
-                            -6.2075511
+                            -122.35045,
+                            47.61358
                         ],
                         [
-                            106.8266822,
-                            -6.2075113
+                            -122.35023,
+                            47.61406
                         ],
                         [
-                            106.8267291,
-                            -6.2071367
+                            -122.35071,
+                            47.61388
                         ]
                     ]
                 ]
